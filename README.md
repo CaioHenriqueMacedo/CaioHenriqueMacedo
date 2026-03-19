@@ -28,8 +28,8 @@ Atuar como Desenvolvedor Front-End, contribuindo com soluções criativas e efic
 📬 Contato
 Email: caiohenriquemacedo01@email.com
 
-LinkedIn:(https://www.linkedin.com/in/caio-henrique-0a91b0291/)
+LinkedIn: https://www.linkedin.com/in/caio-henrique-0a91b0291/
 
-Portfólio:(https://portfolio.fateclins.edu.br/~1920832311028/)
+Portfólio: https://portfolio.fateclins.edu.br/~1920832311028/
 
-site:(https://kairodigital.framer.website/)
+site: https://kairodigital.framer.website/
