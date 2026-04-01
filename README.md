@@ -9,8 +9,6 @@ Tenho foco na criação de interfaces modernas, responsivas e intuitivas, utiliz
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/caiohenrique044/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -18,6 +16,7 @@ Tenho foco na criação de interfaces modernas, responsivas e intuitivas, utiliz
   <a href="https://www.linkedin.com/in/caio-henrique-0a91b0291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
+
 🚀 Tecnologias
 HTML • CSS • JavaScript • Bootstrap  • MySql  • Materialize • XAMPP • Git • Figma • Framer • Eclipse • NetBeans • Android Studio • React • Vercel
 
