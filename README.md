@@ -1,4 +1,4 @@
-# CaioHenrique
+CaioHenrique
 
 Olá! Sou Caio Henrique, Desenvolvedor Front-End formado em Sistemas para Internet (FATEC).
 Tenho foco na criação de interfaces modernas, responsivas e intuitivas, utilizando tecnologias como HTML, CSS, JavaScript e Bootstrap. Também possuo experiência com ferramentas de design como Figma e Framer, unindo desenvolvimento e UX/UI. Atuo em projetos pessoais e profissionais, sempre buscando código limpo, boa performance e uma excelente experiência do usuário.
@@ -18,6 +18,7 @@ Tenho foco na criação de interfaces modernas, responsivas e intuitivas, utiliz
 </div>
 
 🚀 Tecnologias
+
 HTML • CSS • JavaScript • Bootstrap  • MySql  • Materialize • XAMPP • Git • Figma • Framer • Eclipse • NetBeans • Android Studio • React • Vercel
 
 🎯 Objetivo
