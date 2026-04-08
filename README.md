@@ -18,7 +18,7 @@ Tenho foco na criação de interfaces modernas, responsivas e intuitivas, utiliz
 
 🚀 Tecnologias
 
-HTML • CSS • JavaScript • React  • XAMPP • MySql • Bootstrap • Materialize • Git • Figma • Framer • Eclipse • NetBeans • Android Studio • Vercel • Flutter • Cursor • Antigravity
+HTML • CSS • JavaScript • React  • XAMPP • MySql • Supabase • Bootstrap • Materialize • Git • Figma • Framer • Eclipse • NetBeans • Android Studio • Vercel • Flutter • Cursor • Antigravity 
 
 🎯 Objetivo
 
