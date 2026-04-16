@@ -3,7 +3,8 @@ CaioHenrique
 Olá! Sou Caio Henrique, Desenvolvedor Front-End formado em Sistemas para Internet (FATEC).
 Tenho foco na criação de interfaces modernas, responsivas e intuitivas, utilizando tecnologias como HTML, CSS, JavaScript e Bootstrap. Também possuo experiência com ferramentas de design como Figma e Framer, unindo desenvolvimento e UX/UI. Atuo em projetos pessoais e profissionais, sempre buscando código limpo, boa performance e uma excelente experiência do usuário.
 <div style="display: inline_block">
-  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
+  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
