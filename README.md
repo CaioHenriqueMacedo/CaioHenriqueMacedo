@@ -16,8 +16,9 @@ Tenho foco na criação de interfaces modernas, responsivas e intuitivas, utiliz
   <a href="https://www.linkedin.com/in/caio-henrique-0a91b0291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div><br>
+
 🚀 Tecnologias
-<br>
+
 HTML • CSS • JavaScript • React  • XAMPP • MySql • Supabase • Bootstrap • Materialize • Git • Figma • Framer • Eclipse • NetBeans • Android Studio • Databricks • Flutter • Cursor • Antigravity  • Codex • Vercel
 
 🎯 Objetivo
